@@ -1,0 +1,97 @@
+id,label,name,voltage_kV,rating_kVA,length_m,status
+1,Feeder,Feeder 1,11,10000,,Active
+2,Feeder,Feeder 2,11,10000,,Active
+3,Feeder,Feeder 3,11,10000,,Active
+4,Feeder,Feeder 4,11,10000,,Active
+5,Feeder,Feeder 5,11,10000,,Active
+6,RMU,RMU 6,11,2500,,Active
+7,RMU,RMU 7,11,2500,,Active
+8,RMU,RMU 8,11,2500,,Active
+9,RMU,RMU 9,11,2500,,Active
+10,RMU,RMU 10,11,2500,,Active
+11,RMU,RMU 11,11,2500,,Active
+12,RMU,RMU 12,11,2500,,Active
+13,RMU,RMU 13,11,2500,,Active
+14,RMU,RMU 14,11,2500,,Active
+15,RMU,RMU 15,11,2500,,Active
+16,RMU,RMU 16,11,2500,,Active
+17,RMU,RMU 17,11,2500,,Active
+18,RMU,RMU 18,11,2500,,Active
+19,Cable,Cable 19,11,,357,Active
+20,Cable,Cable 20,11,,262,Active
+21,Cable,Cable 21,11,,207,Active
+22,Cable,Cable 22,11,,488,Active
+23,Cable,Cable 23,11,,416,Active
+24,Cable,Cable 24,11,,222,Active
+25,Cable,Cable 25,11,,226,Active
+26,Cable,Cable 26,11,,235,Active
+27,Cable,Cable 27,11,,135,Active
+28,Cable,Cable 28,11,,397,Active
+29,Cable,Cable 29,11,,135,Active
+30,Cable,Cable 30,11,,470,Active
+31,Cable,Cable 31,11,,183,Active
+32,Cable,Cable 32,11,,307,Active
+33,Cable,Cable 33,11,,316,Active
+34,Cable,Cable 34,11,,184,Active
+35,Cable,Cable 35,11,,305,Active
+36,Cable,Cable 36,11,,253,Active
+37,Cable,Cable 37,11,,163,Active
+38,Cable,Cable 38,11,,404,Active
+39,Cable,Cable 39,11,,262,Active
+40,Cable,Cable 40,11,,180,Active
+41,Cable,Cable 41,11,,301,Active
+42,Cable,Cable 42,11,,354,Active
+43,Cable,Cable 43,11,,283,Active
+44,Cable,Cable 44,11,,249,Active
+45,Transformer,Transformer 45,11,315,,Active
+46,Transformer,Transformer 46,11,200,,Active
+47,Transformer,Transformer 47,11,315,,Active
+48,Transformer,Transformer 48,11,315,,Active
+49,Transformer,Transformer 49,11,315,,Active
+50,Transformer,Transformer 50,11,100,,Active
+51,Transformer,Transformer 51,11,315,,Active
+52,Transformer,Transformer 52,11,200,,Active
+53,Transformer,Transformer 53,11,100,,Active
+54,Transformer,Transformer 54,11,315,,Active
+55,Transformer,Transformer 55,11,315,,Active
+56,Transformer,Transformer 56,11,100,,Active
+57,Transformer,Transformer 57,11,200,,Active
+58,LVDB,LVDB 58,0.4,, ,Active
+59,LVDB,LVDB 59,0.4,, ,Active
+60,LVDB,LVDB 60,0.4,, ,Active
+61,LVDB,LVDB 61,0.4,, ,Active
+62,LVDB,LVDB 62,0.4,, ,Active
+63,LVDB,LVDB 63,0.4,, ,Active
+64,LVDB,LVDB 64,0.4,, ,Active
+65,LVDB,LVDB 65,0.4,, ,Active
+66,LVDB,LVDB 66,0.4,, ,Active
+67,LVDB,LVDB 67,0.4,, ,Active
+68,LVDB,LVDB 68,0.4,, ,Active
+69,LVDB,LVDB 69,0.4,, ,Active
+70,LVDB,LVDB 70,0.4,, ,Active
+71,LVDB,LVDB 71,0.4,, ,Active
+72,LVDB,LVDB 72,0.4,, ,Active
+73,LVDB,LVDB 73,0.4,, ,Active
+74,LVDB,LVDB 74,0.4,, ,Active
+75,LVDB,LVDB 75,0.4,, ,Active
+76,LVDB,LVDB 76,0.4,, ,Active
+77,LVDB,LVDB 77,0.4,, ,Active
+78,LVDB,LVDB 78,0.4,, ,Active
+79,LVDB,LVDB 79,0.4,, ,Active
+80,LVDB,LVDB 80,0.4,, ,Active
+81,LVDB,LVDB 81,0.4,, ,Active
+82,LVDB,LVDB 82,0.4,, ,Active
+83,LVDB,LVDB 83,0.4,, ,Active
+84,LVDB,LVDB 84,0.4,, ,Active
+85,LVDB,LVDB 85,0.4,, ,Active
+86,LVDB,LVDB 86,0.4,, ,Active
+87,LVDB,LVDB 87,0.4,, ,Active
+88,LVDB,LVDB 88,0.4,, ,Active
+89,LVDB,LVDB 89,0.4,, ,Active
+90,LVDB,LVDB 90,0.4,, ,Active
+91,LVDB,LVDB 91,0.4,, ,Active
+92,LVDB,LVDB 92,0.4,, ,Active
+93,LVDB,LVDB 93,0.4,, ,Active
+94,LVDB,LVDB 94,0.4,, ,Active
+95,LVDB,LVDB 95,0.4,, ,Active
+96,LVDB,LVDB 96,0.4,, ,Active
