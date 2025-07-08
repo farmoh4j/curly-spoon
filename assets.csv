@@ -1,0 +1,19 @@
+id,type,name,isPartOf,label,voltage_kV,rating_kVA,location,status
+N1,Feeder,Feeder-1,,,11.0,1500,Zone-A,active
+N2,Feeder,Feeder-2,,,11.0,1800,Zone-B,active
+N3,BusBar,BB-SS1,SS1,SS,11.0,,Zone-A,active
+N4,Switch,SW-SS1-1,SS1,SS,11.0,,Zone-A,closed
+N5,Switch,SW-SS1-2,SS1,SS,11.0,,Zone-A,open
+N6,Transformer,TX-SS1,SS1,SS,0.4,630,Zone-A,active
+N7,BusBar,BB-RMU1,RMU1,RMU,11.0,,Zone-B,active
+N8,Switch,SW-RMU1-1,RMU1,RMU,11.0,,Zone-B,closed
+N9,Switch,SW-RMU1-2,RMU1,RMU,11.0,,Zone-B,closed
+N10,Transformer,TX-RMU1,RMU1,RMU,0.4,500,Zone-B,active
+N11,BusBar,BB-RMU2,RMU2,RMU,11.0,,Zone-C,active
+N12,Switch,SW-RMU2-1,RMU2,RMU,11.0,,Zone-C,closed
+N13,Transformer,TX-RMU2,RMU2,RMU,0.4,400,Zone-C,active
+N14,Cable,Cable-1,,,11.0,,Zone-A to Zone-B,active
+N15,Cable,Cable-2,,,11.0,,Zone-B to Zone-C,active
+N16,LVDB,LVDB-1,,,0.4,250,Zone-A,active
+N17,LVDB,LVDB-2,,,0.4,200,Zone-B,active
+N18,LVDB,LVDB-3,,,0.4,150,Zone-C,active
