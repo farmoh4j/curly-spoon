@@ -1,0 +1,88 @@
+id,type,name,isPartOf,label,voltage_kV,rating_kVA,location,status
+N1,Feeder,Feeder-1,,,11.0,2000,Zone-A,active
+N2,Feeder,Feeder-2,,,11.0,2000,Zone-B,active
+N3,Feeder,Feeder-3,,,11.0,2000,Zone-C,active
+N4,Feeder,Feeder-4,,,11.0,2000,Zone-D,active
+N5,BusBar,BB-SS1,SS1,SS,11.0,,Zone-A,active
+N6,Switch,SW-SS1-1,SS1,SS,11.0,,Zone-A,open
+N7,Switch,SW-SS1-2,SS1,SS,11.0,,Zone-A,open
+N8,Transformer,TX-SS1,SS1,SS,0.4,630,Zone-A,active
+N9,BusBar,BB-SS2,SS2,SS,11.0,,Zone-B,active
+N10,Switch,SW-SS2-1,SS2,SS,11.0,,Zone-B,closed
+N11,Switch,SW-SS2-2,SS2,SS,11.0,,Zone-B,closed
+N12,Transformer,TX-SS2,SS2,SS,0.4,630,Zone-B,active
+N13,BusBar,BB-SS3,SS3,SS,11.0,,Zone-C,active
+N14,Switch,SW-SS3-1,SS3,SS,11.0,,Zone-C,open
+N15,Switch,SW-SS3-2,SS3,SS,11.0,,Zone-C,open
+N16,Transformer,TX-SS3,SS3,SS,0.4,500,Zone-C,active
+N17,BusBar,BB-SS4,SS4,SS,11.0,,Zone-D,active
+N18,Switch,SW-SS4-1,SS4,SS,11.0,,Zone-D,closed
+N19,Switch,SW-SS4-2,SS4,SS,11.0,,Zone-D,open
+N20,Transformer,TX-SS4,SS4,SS,0.4,630,Zone-D,active
+N21,BusBar,BB-RMU1,RMU1,RMU,11.0,,Zone-C,active
+N22,Switch,SW-RMU1-1,RMU1,RMU,11.0,,Zone-C,closed
+N23,Switch,SW-RMU1-2,RMU1,RMU,11.0,,Zone-C,closed
+N24,Transformer,TX-RMU1,RMU1,RMU,0.4,500,Zone-C,active
+N25,BusBar,BB-RMU2,RMU2,RMU,11.0,,Zone-D,active
+N26,Switch,SW-RMU2-1,RMU2,RMU,11.0,,Zone-D,closed
+N27,Switch,SW-RMU2-2,RMU2,RMU,11.0,,Zone-D,closed
+N28,Transformer,TX-RMU2,RMU2,RMU,0.4,500,Zone-D,active
+N29,BusBar,BB-RMU3,RMU3,RMU,11.0,,Zone-E,active
+N30,Switch,SW-RMU3-1,RMU3,RMU,11.0,,Zone-E,closed
+N31,Switch,SW-RMU3-2,RMU3,RMU,11.0,,Zone-E,closed
+N32,Transformer,TX-RMU3,RMU3,RMU,0.4,400,Zone-E,active
+N33,BusBar,BB-RMU4,RMU4,RMU,11.0,,Zone-F,active
+N34,Switch,SW-RMU4-1,RMU4,RMU,11.0,,Zone-F,closed
+N35,Switch,SW-RMU4-2,RMU4,RMU,11.0,,Zone-F,closed
+N36,Transformer,TX-RMU4,RMU4,RMU,0.4,500,Zone-F,active
+N37,BusBar,BB-RMU5,RMU5,RMU,11.0,,Zone-G,active
+N38,Switch,SW-RMU5-1,RMU5,RMU,11.0,,Zone-G,closed
+N39,Switch,SW-RMU5-2,RMU5,RMU,11.0,,Zone-G,closed
+N40,Transformer,TX-RMU5,RMU5,RMU,0.4,400,Zone-G,active
+N41,BusBar,BB-RMU6,RMU6,RMU,11.0,,Zone-H,active
+N42,Switch,SW-RMU6-1,RMU6,RMU,11.0,,Zone-H,closed
+N43,Switch,SW-RMU6-2,RMU6,RMU,11.0,,Zone-H,closed
+N44,Transformer,TX-RMU6,RMU6,RMU,0.4,400,Zone-H,active
+N45,BusBar,BB-RMU7,RMU7,RMU,11.0,,Zone-I,active
+N46,Switch,SW-RMU7-1,RMU7,RMU,11.0,,Zone-I,closed
+N47,Switch,SW-RMU7-2,RMU7,RMU,11.0,,Zone-I,closed
+N48,Transformer,TX-RMU7,RMU7,RMU,0.4,400,Zone-I,active
+N49,BusBar,BB-RMU8,RMU8,RMU,11.0,,Zone-J,active
+N50,Switch,SW-RMU8-1,RMU8,RMU,11.0,,Zone-J,closed
+N51,Switch,SW-RMU8-2,RMU8,RMU,11.0,,Zone-J,closed
+N52,Transformer,TX-RMU8,RMU8,RMU,0.4,400,Zone-J,active
+N53,BusBar,BB-RMU9,RMU9,RMU,11.0,,Zone-K,active
+N54,Switch,SW-RMU9-1,RMU9,RMU,11.0,,Zone-K,closed
+N55,Switch,SW-RMU9-2,RMU9,RMU,11.0,,Zone-K,closed
+N56,Transformer,TX-RMU9,RMU9,RMU,0.4,500,Zone-K,active
+N57,BusBar,BB-RMU10,RMU10,RMU,11.0,,Zone-L,active
+N58,Switch,SW-RMU10-1,RMU10,RMU,11.0,,Zone-L,closed
+N59,Switch,SW-RMU10-2,RMU10,RMU,11.0,,Zone-L,closed
+N60,Transformer,TX-RMU10,RMU10,RMU,0.4,500,Zone-L,active
+N61,Cable,Cable-1,,,11.0,,Zone-A to Zone-B,active
+N62,Cable,Cable-2,,,11.0,,Zone-B to Zone-C,active
+N63,Cable,Cable-3,,,11.0,,Zone-C to Zone-D,active
+N64,Cable,Cable-4,,,11.0,,Zone-D to Zone-E,active
+N65,Cable,Cable-5,,,11.0,,Zone-E to Zone-F,active
+N66,Cable,Cable-6,,,11.0,,Zone-F to Zone-G,active
+N67,Cable,Cable-7,,,11.0,,Zone-G to Zone-H,active
+N68,Cable,Cable-8,,,11.0,,Zone-H to Zone-I,active
+N69,Cable,Cable-9,,,11.0,,Zone-I to Zone-J,active
+N70,Cable,Cable-10,,,11.0,,Zone-J to Zone-K,active
+N71,Cable,Cable-11,,,11.0,,Zone-K to Zone-L,active
+N72,Cable,Cable-12,,,11.0,,Zone-L to Zone-M,active
+N73,Cable,Cable-13,,,11.0,,Zone-M to Zone-N,active
+N74,LVDB,LVDB-1,,,0.4,250,Zone-A,active
+N75,LVDB,LVDB-2,,,0.4,250,Zone-B,active
+N76,LVDB,LVDB-3,,,0.4,150,Zone-C,active
+N77,LVDB,LVDB-4,,,0.4,200,Zone-D,active
+N78,LVDB,LVDB-5,,,0.4,250,Zone-E,active
+N79,LVDB,LVDB-6,,,0.4,250,Zone-F,active
+N80,LVDB,LVDB-7,,,0.4,250,Zone-G,active
+N81,LVDB,LVDB-8,,,0.4,150,Zone-H,active
+N82,LVDB,LVDB-9,,,0.4,250,Zone-I,active
+N83,LVDB,LVDB-10,,,0.4,250,Zone-J,active
+N84,LVDB,LVDB-11,,,0.4,200,Zone-K,active
+N85,LVDB,LVDB-12,,,0.4,250,Zone-L,active
+N86,LVDB,LVDB-13,,,0.4,150,Zone-M,active
+N87,LVDB,LVDB-14,,,0.4,250,Zone-N,active
