@@ -1,0 +1,38 @@
+id:ID,label,substation,config,voltage,power_rating,customers
+FeederA,Feeder,,,11kV,,
+FeederB,Feeder,,,11kV,,
+SS1,Substation,SS1,RMU,, ,1000
+SS1_Busbar,Busbar,SS1,RMU,,, 
+SS1_Switch1,Switch,SS1,RMU,,, 
+SS1_Switch2,Switch,SS1,RMU,,, 
+SS1_Switch3,Switch,SS1,RMU,,, 
+SS1_Transformer,Transformer,SS1,RMU,,1000kVA, 
+SS1_LVDB,LVDB,SS1,RMU,0.4kV,, 
+SS2,Substation,SS2,B,, ,800
+SS2_Busbar,Busbar,SS2,B,,, 
+SS2_Switch1,Switch,SS2,B,,, 
+SS2_Switch2,Switch,SS2,B,,, 
+SS2_Switch3,Switch,SS2,B,,, 
+SS2_Transformer,Transformer,SS2,B,,800kVA, 
+SS2_LVDB,LVDB,SS2,B,0.4kV,, 
+SS3,Substation,SS3,RMU,, ,600
+SS3_Busbar,Busbar,SS3,RMU,,, 
+SS3_Switch1,Switch,SS3,RMU,,, 
+SS3_Switch2,Switch,SS3,RMU,,, 
+SS3_Switch3,Switch,SS3,RMU,,, 
+SS3_Transformer,Transformer,SS3,RMU,,1200kVA, 
+SS3_LVDB,LVDB,SS3,RMU,0.4kV,, 
+SS4,Substation,SS4,B,, ,400
+SS4_Busbar,Busbar,SS4,B,,, 
+SS4_Switch1,Switch,SS4,B,,, 
+SS4_Switch2,Switch,SS4,B,,, 
+SS4_Switch3,Switch,SS4,B,,, 
+SS4_Transformer,Transformer,SS4,B,,500kVA, 
+SS4_LVDB,LVDB,SS4,B,0.4kV,, 
+SS5,Substation,SS5,B,, ,300
+SS5_Busbar,Busbar,SS5,B,,, 
+SS5_Switch1,Switch,SS5,B,,, 
+SS5_Switch2,Switch,SS5,B,,, 
+SS5_Switch3,Switch,SS5,B,,, 
+SS5_Transformer,Transformer,SS5,B,,400kVA, 
+SS5_LVDB,LVDB,SS5,B,0.4kV,, 
